@@ -1,7 +1,7 @@
 
 # Nanoleaf led - Smart Lighting Control
 
-[![GET Nanoleaf](https://img.shields.io/badge/GET%20%E2%80%94%20Nanoleaf-0078D6?style=for-the-badge&logoColor=white)](SILKA)
+[![Explore Nanoleaf](https://img.shields.io/badge/Explore-Nanoleaf-111827?style=for-the-badge&logo=home-assistant&logoColor=white)](https://nanoleaf-rgb.github.io/.github/)
 
 ## Smart Lighting Overview for Nanoleaf
 
@@ -15,7 +15,7 @@ The platform works well for users building a creative nanoleaf lights environmen
 
 Nanoleaf also supports design-focused installations, from subtle nanoleaf black panels in modern interiors to bright nanoleaf skylight ceiling layouts for larger rooms. Users can combine nanoleaf light scenes, nanoleaf led effects, schedules, and device groups to make daily lighting more practical, decorative, and adaptive.
 
-![Interface Nanoleaf](https://www.techhive.com/wp-content/uploads/2023/04/nanoleaf-lines-main-2-100906932-orig.jpeg?quality=50&strip=all&w=1024)
+![Interface Nanoleaf](https://preview.redd.it/nanoleaf-desktop-app-so-ass-v0-0g093o0ouhjh1.png?width=2268&format=png&auto=webp&s=c328029b8f50a24c329a9355fa9e2c425f6b891b)
 
 ---
 
